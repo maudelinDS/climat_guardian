@@ -16,8 +16,6 @@ to correctly use the tooling.
 **! Warning**, the doc’s folder is a work in progress.
 For the moment, you can still find the old documentation below.
 
-
-
 ## Setup
 From now on, the computer that runs the docker will be called "server" and
 the computer used by the user will be called "computer"
